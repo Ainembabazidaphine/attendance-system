@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack Pro",
+  "description": "Secure school attendance system using biometric simulation and GPS tracking for students and teachers.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
